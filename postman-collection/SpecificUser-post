@@ -1,0 +1,68 @@
+{
+  "userId": "69575e59f27ba05d7ff1ea8a",
+  "page": 1,
+  "limit": 5,
+  "total": 4,
+  "totalPages": 1,
+  "count": 4,
+  "posts": [
+    {
+      "_id": "69576040f27ba05d7ff1ea93",
+      "title": "My third Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69575e59f27ba05d7ff1ea8a",
+        "username": "esr ter",
+        "email": "test12@mail.com"
+      },
+      "likes": [
+        "69575e59f27ba05d7ff1ea8a"
+      ],
+      "createdAt": "2026-01-02T06:05:52.714Z",
+      "updatedAt": "2026-01-02T06:10:03.813Z",
+      "__v": 7
+    },
+    {
+      "_id": "6957603bf27ba05d7ff1ea91",
+      "title": "My second Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69575e59f27ba05d7ff1ea8a",
+        "username": "esr ter",
+        "email": "test12@mail.com"
+      },
+      "likes": [],
+      "createdAt": "2026-01-02T06:05:47.269Z",
+      "updatedAt": "2026-01-02T06:05:47.269Z",
+      "__v": 0
+    },
+    {
+      "_id": "69576033f27ba05d7ff1ea8f",
+      "title": "My First Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69575e59f27ba05d7ff1ea8a",
+        "username": "esr ter",
+        "email": "test12@mail.com"
+      },
+      "likes": [],
+      "createdAt": "2026-01-02T06:05:39.310Z",
+      "updatedAt": "2026-01-02T06:05:39.310Z",
+      "__v": 0
+    },
+    {
+      "_id": "6957602af27ba05d7ff1ea8d",
+      "title": "My First Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69575e59f27ba05d7ff1ea8a",
+        "username": "esr ter",
+        "email": "test12@mail.com"
+      },
+      "likes": [],
+      "createdAt": "2026-01-02T06:05:30.779Z",
+      "updatedAt": "2026-01-02T06:05:30.779Z",
+      "__v": 0
+    }
+  ]
+}

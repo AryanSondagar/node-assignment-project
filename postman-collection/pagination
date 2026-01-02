@@ -1,0 +1,81 @@
+{
+  "page": 1,
+  "limit": 5,
+  "total": 5,
+  "totalPages": 1,
+  "count": 5,
+  "posts": [
+    {
+      "_id": "69576040f27ba05d7ff1ea93",
+      "title": "My third Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69575e59f27ba05d7ff1ea8a",
+        "username": "esr ter",
+        "email": "test12@mail.com"
+      },
+      "likes": [],
+      "createdAt": "2026-01-02T06:05:52.714Z",
+      "updatedAt": "2026-01-02T06:05:52.714Z",
+      "__v": 0
+    },
+    {
+      "_id": "6957603bf27ba05d7ff1ea91",
+      "title": "My second Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69575e59f27ba05d7ff1ea8a",
+        "username": "esr ter",
+        "email": "test12@mail.com"
+      },
+      "likes": [],
+      "createdAt": "2026-01-02T06:05:47.269Z",
+      "updatedAt": "2026-01-02T06:05:47.269Z",
+      "__v": 0
+    },
+    {
+      "_id": "69576033f27ba05d7ff1ea8f",
+      "title": "My First Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69575e59f27ba05d7ff1ea8a",
+        "username": "esr ter",
+        "email": "test12@mail.com"
+      },
+      "likes": [],
+      "createdAt": "2026-01-02T06:05:39.310Z",
+      "updatedAt": "2026-01-02T06:05:39.310Z",
+      "__v": 0
+    },
+    {
+      "_id": "6957602af27ba05d7ff1ea8d",
+      "title": "My First Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69575e59f27ba05d7ff1ea8a",
+        "username": "esr ter",
+        "email": "test12@mail.com"
+      },
+      "likes": [],
+      "createdAt": "2026-01-02T06:05:30.779Z",
+      "updatedAt": "2026-01-02T06:05:30.779Z",
+      "__v": 0
+    },
+    {
+      "_id": "695756151f711c98e2f3dd63",
+      "title": "My First Post",
+      "content": "Hello MongoDB!",
+      "author": {
+        "_id": "69569ac0b12be0b4c17a80f6",
+        "username": "esr ter",
+        "email": "abc@gmail.com"
+      },
+      "likes": [
+        "69569ac0b12be0b4c17a80f6"
+      ],
+      "createdAt": "2026-01-02T05:22:29.867Z",
+      "updatedAt": "2026-01-02T05:41:08.062Z",
+      "__v": 1
+    }
+  ]
+}

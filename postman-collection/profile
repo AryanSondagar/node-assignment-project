@@ -1,0 +1,9 @@
+{
+  "message": "Protected profile data",
+  "user": {
+    "id": "69575e59f27ba05d7ff1ea8a",
+    "email": "test12@mail.com",
+    "iat": 1767333845,
+    "exp": 1767420245
+  }
+}

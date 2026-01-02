@@ -1,0 +1,13 @@
+{
+  "message": "Post created successfully",
+  "post": {
+    "title": "My third Post",
+    "content": "Hello MongoDB!",
+    "author": "69575e59f27ba05d7ff1ea8a",
+    "likes": [],
+    "_id": "69576040f27ba05d7ff1ea93",
+    "createdAt": "2026-01-02T06:05:52.714Z",
+    "updatedAt": "2026-01-02T06:05:52.714Z",
+    "__v": 0
+  }
+}
